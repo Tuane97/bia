@@ -59,7 +59,7 @@ const AddTask = ({ onAdd }) => {
       </div>
       
       <button type="submit" className="btn btn-block success">
-        Add task formacao.bia
+        Add task com CI/CD
       </button>
       
       <Modal
